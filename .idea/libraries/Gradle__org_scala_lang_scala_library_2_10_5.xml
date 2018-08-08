@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="Gradle: org.scala-lang:scala-library:2.10.5" type="Scala">
+    <properties>
+      <option name="languageLevel" value="Scala_2_10" />
+      <compiler-classpath>
+        <root url="file://D:/Repository/Gradle/caches/modules-2/files-2.1/org.scala-lang/scala-compiler/2.10.5/f0f5bb444ca26a6e489af3dd35e24f7e2d2d118e/scala-compiler-2.10.5.jar" />
+        <root url="file://D:/Repository/Gradle/caches/modules-2/files-2.1/org.scala-lang/scala-reflect/2.10.5/7392facb48876c67a89fcb086112b195f5f6bbc3/scala-reflect-2.10.5.jar" />
+        <root url="file://D:/Repository/Gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.10.5/57ac67a6cf6fd591e235c62f8893438e8d10431d/scala-library-2.10.5.jar" />
+      </compiler-classpath>
+    </properties>
+    <CLASSES>
+      <root url="jar://D:/Repository/Gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.10.5/57ac67a6cf6fd591e235c62f8893438e8d10431d/scala-library-2.10.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://D:/Repository/Gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.10.5/a75210c2d9907b0703cf6d5c220747a53e6bf38e/scala-library-2.10.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
